@@ -1,3 +1,22 @@
+/*
+---
+description: This plugin will analyse the text of a form field, run it through the Yahoo term extractor and returns the found keywords as tags.
+
+authors:
+  - Adrian Statescu (http://thinkphp.ro)
+
+license:
+  - MIT-style license
+
+requires:
+  core/1.3: '*'
+  more/1.3.0.1: Request.JSONP
+
+provides:
+  - AutoTagger
+...
+*/
+
 var AutoTagger = new Class({
        /* Extends */
        Extends: Request.JSONP,
