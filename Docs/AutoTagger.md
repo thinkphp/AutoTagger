@@ -71,10 +71,12 @@ All the events you know from Request.JSONP
 #### Arguments:
 
 - scriptSrc (*String*) - the attribute 'src' of the element 'script' used in class request.jsonp 
-  ex: http://query.yahooapis.com/v1/public/yql?q=...
+
+ex: http://query.yahooapis.com/v1/public/yql?q=...
 
 - scriptEl (*Element*) - the HTMLScriptElement for script tag injection in request.jsonp
-  ex: <script type="text/javascript" src="...">
+
+ex: &lt;script type="text/javascript" src="..."&gt;
 
 
 AutoTagger Method: send(#AutoTagger: send) 
