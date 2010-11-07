@@ -3,5 +3,5 @@ author: thinkphp
 current: v1.0  
 category: Utilities 
 tags: [term, extraction, yahoo, yql, jsonp, request, tags, termExtraction, service]
-docs:  
+docs: https://github.com/thinkphp/AutoTagger/blob/master/Docs/AutoTagger.md 
 demo:  
