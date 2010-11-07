@@ -50,7 +50,7 @@ In your HTML.
 
 You can view in action:
 
-- []()
+- [http://thinkphp.github.com/AutoTagger/](http://thinkphp.github.com/AutoTagger/)
 
 
 ### Requirements:
