@@ -1,7 +1,7 @@
 AutoTagger
 ====================
 
-This plugin will analyse the text of a form field, run it through the Yahoo term extractor and returns the found keywords as tags.
+This plugin will analyse the text of a form field, run it through the Yahoo Term Extraction Web Service and provides a list of signifiant words or phrases as tags.
 
 ![Screenshot](http://farm5.static.flickr.com/4030/5153139831_ee3377cfa9_b.jpg)
 
