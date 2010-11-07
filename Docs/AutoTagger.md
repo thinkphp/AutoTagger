@@ -22,6 +22,11 @@ AutoTagger Method: constructor {#AutoTagger: constructor}
 2. options (*object*) An object containing the AutoTagger instance's options.
 Note: all the options you know from the class Request.JSONP because we have an inheritance.
 
+PLUS 2
+
+- tagDelimiter (*String*, default to ', ') - the string added between tags , default is a comma next space.
+- addQuotes (*Boolean*, default to 'true') - boolean to add quotes around tags that contain spaces
+
 ### Returns:
 
 (*Object*) This instance of AutoTagger.
