@@ -1,7 +1,0 @@
-name: AutoTagger
-author: thinkphp
-current: v1.0  
-category: Utilities 
-tags: [term, extraction, yahoo, yql, jsonp, request, tags, termExtraction, service]
-docs: https://github.com/thinkphp/AutoTagger/blob/master/Docs/AutoTagger.md 
-demo: http://thinkphp.github.com/AutoTagger/ 
